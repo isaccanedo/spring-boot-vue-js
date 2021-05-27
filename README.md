@@ -1,7 +1,7 @@
 ## Frontend Vue.js com um back-end Spring Boot
 
 # 1. Visão Geral
-Neste tutorial, veremos um aplicativo de exemplo que renderiza uma única página com um front-end Vue.js, enquanto usa Spring Boot como back-end.
+Neste breve tutorial, veremos um aplicativo de exemplo que renderiza uma única página com um front-end Vue.js, enquanto usa Spring Boot como back-end.
 
 Também utilizaremos o Thymeleaf para passar informações para o modelo.
 
